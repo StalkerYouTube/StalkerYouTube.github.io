@@ -55,3 +55,9 @@ footer {
 	background: #215fa6;/*колір пібдереш*/
 	color: white;
 }
+input[type=submit]{
+	background: none;
+	border: 2px solid black;
+	padding: 2px 20px;
+	font-size: 20px;
+}
